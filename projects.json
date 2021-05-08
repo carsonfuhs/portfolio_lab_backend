@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Stock Tracker",
+      "live": "https://project1-six.vercel.app/",
+      "git": "https://github.com/carsonfuhs/project1",
+      "image": "https://i.imgur.com/QgjsIXJ.png"
+    },
+    {
+      "name": "Budgeter",
+      "live": "https://budgeterproject2.herokuapp.com/",
+      "git": "https://github.com/carsonfuhs/project2",
+      "image": "https://i.imgur.com/UtAwNYt.png"
+    }
+  ]
